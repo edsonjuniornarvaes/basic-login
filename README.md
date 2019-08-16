@@ -5,7 +5,8 @@ Login Procedural com PHP7
 - Verifica a existência do login
 - md5
 
-* criar bd "sistemalogin"
+* Usado no exemplo: 
+  bd "sistemalogin"
   Tabela: usuários
   Campos: id / nome / login
 
